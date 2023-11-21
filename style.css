@@ -1,3 +1,5 @@
+
+
 body{
 	background-color: #ede5e5; /* Dark grey color */
   }
@@ -248,4 +250,52 @@ section {
 	
   }
   
-  
+ /* Add styles for dark mode */
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Add styles for buttons in Dark mode */
+.dark-mode-toggle{
+	border-color: dodgerblue;
+	color: dodgerblue;
+	background-color: dodgerblue;
+	/* align-content: right; */
+}
+.dark-mode #img-brightness-btn {
+    color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-contrast-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-saturation-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-vibrance-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-vintage-btn {
+    color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-lomo-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-clarity-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-sincity-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-crossprocess-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-pinhole-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-nostalgia-btn {
+	color: white; /* Set the text color for the buttons in dark mode */
+}
+.dark-mode #img-majesty-btn {
+    color: white; /* Set the text color for the button in dark mode */
+}
